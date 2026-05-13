@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ============================================================
+     HoloTracker — Ant build file for NetBeans
+     NetBeans calls this to compile, run, and clean the project.
+     You do NOT need to edit this file.
+     ============================================================ -->
+<project name="GradeTracker" default="default" basedir=".">
+    <description>HoloTracker — Student Grade Management System</description>
+    <import file="nbproject/build-impl.xml"/>
+</project>
